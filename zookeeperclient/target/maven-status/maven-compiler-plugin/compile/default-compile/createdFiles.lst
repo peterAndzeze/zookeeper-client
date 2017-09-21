@@ -1,1 +1,11 @@
 com/zookeeper/javaApi/ZookeeperClient.class
+zkclient/master/WorkServerA.class
+com/zookeeper/javaApi/ZookeeperClient$1.class
+zkclient/master/WorkServerA$1.class
+zkclient/master/WorkServer$2.class
+zkclient/master/WorkServer$1$1.class
+zkclient/master/WorkServer.class
+zkclient/master/RunningData.class
+zkclient/master/WorkServer$1.class
+zkclient/master/LeaderSelectorZkclent.class
+zkclient/master/WorkServerA$2.class
